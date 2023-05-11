@@ -1,0 +1,5 @@
+name: PvpProtectionBedrockFix
+version: '${project.version}'
+main: me.heyxmirko.pvpprotectionbedrockfix.PvpProtectionBedrockFix
+api-version: 1.19
+depend: [WorldGuard, WGRegionEvents, DeluxeCombat]
